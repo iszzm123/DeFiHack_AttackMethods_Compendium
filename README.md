@@ -15,7 +15,6 @@
 
 ## Overview & Statistics
 
-### Total Files Analyzed: 762
 
 **Distribution by Year:**
 | Year | Files | Directories |
